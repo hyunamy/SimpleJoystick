@@ -1,4 +1,4 @@
-[![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://vimeo.com/972170966?share=copy))
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://vimeo.com/972170966?share=copy))
 
 # SimpleJoystick
 
