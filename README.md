@@ -1,4 +1,4 @@
-https://youtu.be/hdyCbyTIPmI
+[![Watch the video]](https://youtu.be/hdyCbyTIPmI)
 
 # SimpleJoystick
 
