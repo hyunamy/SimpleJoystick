@@ -1,4 +1,4 @@
-[한국어](./Readme_kr.md) | [English](./Readme.md)
+[한국어](./README_kr.md) | [English](./README.md)
 
 
 ![simplejoystick](https://github.com/hyunamy/SimpleJoystick/assets/16355956/8d566ef7-7f3f-4f04-9908-d598a5b9f264)
