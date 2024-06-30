@@ -1,3 +1,6 @@
+
+![simplejoystick](https://github.com/hyunamy/SimpleJoystick/assets/16355956/8d566ef7-7f3f-4f04-9908-d598a5b9f264)
+
 # SimpleJoystick
 
 SimpleJoystick는 모바일 게임을 위한 사용하기 쉬운 조이스틱 컨트롤을 제공하는 Unity 자산입니다. 최소한의 설정으로 게임에 부드럽고 반응성이 좋은 조이스틱 입력을 추가할 수 있습니다.
