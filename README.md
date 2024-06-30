@@ -8,9 +8,6 @@ SimpleJoystick is a Unity asset that provides an easy-to-use joystick control fo
 - **Smooth Input:** Provides smooth and accurate input for character movement and other actions.
 - **Mobile-Friendly:** Optimized for mobile devices, ensuring a responsive and lag-free experience.
 
-## Demo Video
-For a quick overview and demonstration of how to use SimpleJoystick, check out our [demo video](https://drive.google.com/file/d/1X2Vl6p994NlfRm478qMUPMAxOTu0KoaD/view?usp=sharing).
-
 ## Installation
 1. **Clone the repository:**
     ```bash
