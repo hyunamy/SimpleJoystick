@@ -1,6 +1,5 @@
 [한국어](./README_kr.md) | [English](./README.md)
 
-
 ![simplejoystick](https://github.com/hyunamy/SimpleJoystick/assets/16355956/8d566ef7-7f3f-4f04-9908-d598a5b9f264)
 
 # SimpleJoystick
@@ -13,40 +12,6 @@ SimpleJoystick는 모바일 게임을 위한 사용하기 쉬운 조이스틱 �
 - **부드러운 입력:** 캐릭터 이동 및 기타 동작을 위한 부드럽고 정확한 입력을 제공합니다.
 - **모바일 친화적:** 모바일 장치에 최적화되어 반응이 빠르고 지연이 없는 경험을 보장합니다.
 
-## 설치
-1. **레포지토리 클론:**
-    ```bash
-    git clone https://github.com/hyunamy/SimpleJoystick.git
-    ```
-2. **Unity에서 프로젝트 열기:**
-    - Unity Hub를 열고 "Add" 버튼을 클릭합니다.
-    - 클론한 레포지토리 폴더로 이동하여 선택합니다.
-
-3. **SimpleJoystick 패키지 가져오기:**
-    - Unity 에디터에서 `Assets > Import Package > Custom Package...`로 이동합니다.
-    - 클론한 레포지토리에서 SimpleJoystick.unitypackage 파일을 선택하고 모든 자산을 가져옵니다.
-
-## 사용 방법
-1. **씬에 조이스틱 추가:**
-    - `Prefabs` 폴더에서 `SimpleJoystick` 프리팹을 드래그하여 씬에 추가합니다.
-
-2. **조이스틱 구성:**
-    - Inspector에서 조이스틱의 크기, 위치 및 기타 설정을 조정하여 게임 UI에 맞게 설정합니다.
-
-3. **조이스틱 입력 사용:**
-    - 스크립트에서 조이스틱 입력을 사용하여 게임 오브젝트를 제어합니다.
-    ```csharp
-    public class PlayerController : MonoBehaviour
-    {
-        public SimpleJoystick joystick;
-
-        void Update()
-        {
-            Vector2 direction = joystick.GetInputDirection();
-            // 방향을 사용하여 플레이어를 이동하거나 기타 동작을 수행합니다.
-        }
-    }
-    ```
 
 ## 기여
 SimpleJoystick을 개선하기 위한 기여를 환영합니다! 제안 사항이 있거나 문제를 발견하면 이슈를 열거나 풀 리퀘스트를 제출해 주세요.
